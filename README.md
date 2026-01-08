@@ -13,7 +13,7 @@ This repository contains all learning materials and code developed during the Py
 ### Topics Covered
 
 1. Python Modules, Comments & pip
-2. Variables and Data Types
+2. Variables, Data Types, Rules of Variable, Operators, Type Casting, User_Input Function
 3. Strings and String Functions
 4. Lists and Tuples
 5. Dictionary and Sets
